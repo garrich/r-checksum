@@ -23,7 +23,7 @@ This Rust program calculates the MD5 hash for one or multiple files, providing a
    
 2. **Change into the project directory:**
     ```bash
-    cd md5_hash_calculator
+    cd r-checksum
 
 ## Usage
 To calculate the MD5 hash of a file or all files in a directory, run the following command:
